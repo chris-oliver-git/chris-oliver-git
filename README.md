@@ -31,9 +31,6 @@
   </a>
 </div>
 
-###
-
-# Oi 👋 eu sou o Christopher! #
 <br><br>
 Olá! Sou Christopher Oliveira, profissional de Tecnologia da Informação com experiência em suporte técnico, gestão de produtos (Product Owner), sucesso do cliente e integrações com APIs. Atuo como gerente de TI, liderando uma equipe com foco em eficiência operacional, melhoria contínua e atendimento ao cliente de alto nível.<br><br>Tenho interesse especial por produtos digitais na área da saúde, com destaque para exibição de resultados de exames médicos, integração com APIs e experiência do usuário em dispositivos móveis.<br><br>
 
