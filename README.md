@@ -1,4 +1,4 @@
-# Oi 👋! eu sou o Christopher! #
+# Oi 👋 eu sou o Christopher! #
 
 Olá! Sou Christopher Oliveira, profissional de Tecnologia da Informação com experiência em suporte técnico, gestão de produtos (Product Owner), sucesso do cliente e integrações com APIs. Atuo como gerente de TI, liderando uma equipe com foco em eficiência operacional, melhoria contínua e atendimento ao cliente de alto nível.
 
@@ -53,7 +53,9 @@ Tenho interesse especial por produtos digitais na área da saúde, com destaque 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://instagram.com/euchristopheer" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+</a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
