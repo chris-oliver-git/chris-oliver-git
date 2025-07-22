@@ -33,11 +33,18 @@
 
 ###
 
-<p align="left"># Oi 👋 eu sou o Christopher! #<br><br>Olá! Sou Christopher Oliveira, profissional de Tecnologia da Informação com experiência em suporte técnico, gestão de produtos (Product Owner), sucesso do cliente e integrações com APIs. Atuo como gerente de TI, liderando uma equipe com foco em eficiência operacional, melhoria contínua e atendimento ao cliente de alto nível.<br><br>Tenho interesse especial por produtos digitais na área da saúde, com destaque para exibição de resultados de exames médicos, integração com APIs e experiência do usuário em dispositivos móveis.<br><br>
-### 🧠 O que venho estudando 
-###<br><br>* Desenvolvimento Web: HTML, CSS, JavaScript, React<br><br>* Integrações com APIs abertas: foco na área da saúde<br><br>* Infraestrutura de redes: uso e configuração de pfSense, firewall, bloqueios por DNS <br><br>* DevOps básico: Git, GitHub, automações e versionamento<br><br>* Comunicação e Escrita Profissional: prática constante de clareza e objetividade<br><br>* Inglês: conversação, gramática e vocabulário com base no método Pimsleur<br><br>
-### 🚀 Interesses profissionais 
-###<br><br>* Construção de portais web modernos, seguros e acessíveis<br><br>* Melhoria da experiência do paciente por meio da tecnologia<br><br>* APIs RESTful e padrões de integração escaláveis<br><br>* Gestão de equipes de TI e produtos digitais com foco em entrega de valor</p>
+# Oi 👋 eu sou o Christopher! #
+<br><br>
+Olá! Sou Christopher Oliveira, profissional de Tecnologia da Informação com experiência em suporte técnico, gestão de produtos (Product Owner), sucesso do cliente e integrações com APIs. Atuo como gerente de TI, liderando uma equipe com foco em eficiência operacional, melhoria contínua e atendimento ao cliente de alto nível.<br><br>Tenho interesse especial por produtos digitais na área da saúde, com destaque para exibição de resultados de exames médicos, integração com APIs e experiência do usuário em dispositivos móveis.<br><br>
+
+### 🧠 O que venho estudando ### 
+* Desenvolvimento Web: HTML, CSS, JavaScript, React<br><br>* Integrações com APIs abertas: foco na área da saúde<br><br>* Infraestrutura de redes: uso e configuração de pfSense, firewall, bloqueios por DNS <br><br>* DevOps básico: Git, GitHub, automações e versionamento<br><br>* Comunicação e Escrita Profissional: prática constante de clareza e objetividade<br><br>* Inglês: conversação, gramática e vocabulário com base no método Pimsleur<br><br>
+
+### 🚀 Interesses profissionais ###
+* Construção de portais web modernos, seguros e acessíveis<br><br>
+* Melhoria da experiência do paciente por meio da tecnologia<br><br>
+* APIs RESTful e padrões de integração escaláveis<br><br>
+* Gestão de equipes de TI e produtos digitais com foco em entrega de valor</p>
 
 ###
 
