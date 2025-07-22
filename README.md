@@ -1,15 +1,41 @@
-<h2 align="left">Oi 👋! eu sou o Christopher!</h2>
+# Oi 👋! eu sou o Christopher! #
 
-###
+Olá! Sou Christopher Oliveira, profissional de Tecnologia da Informação com experiência em suporte técnico, gestão de produtos (Product Owner), sucesso do cliente e integrações com APIs. Atuo como gerente de TI, liderando uma equipe com foco em eficiência operacional, melhoria contínua e atendimento ao cliente de alto nível.
+
+Tenho interesse especial por produtos digitais na área da saúde, com destaque para exibição de resultados de exames médicos, integração com APIs e experiência do usuário em dispositivos móveis.
+
+### 🧠 O que venho estudando ###
+
+* Desenvolvimento Web: HTML, CSS, JavaScript, React
+
+* Integrações com APIs abertas: foco na área da saúde
+
+* Infraestrutura de redes: uso e configuração de pfSense, firewall, bloqueios por DNS 
+
+* DevOps básico: Git, GitHub, automações e versionamento
+
+* Comunicação e Escrita Profissional: prática constante de clareza e objetividade
+
+* Inglês: conversação, gramática e vocabulário com base no método Pimsleur
+
+### 🚀 Interesses profissionais ###
+
+* Construção de portais web modernos, seguros e acessíveis
+
+* Melhoria da experiência do paciente por meio da tecnologia
+
+* APIs RESTful e padrões de integração escaláveis
+
+* Gestão de equipes de TI e produtos digitais com foco em entrega de valor
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chris-oliver-git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-oliver-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
