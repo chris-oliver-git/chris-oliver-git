@@ -1,58 +1,58 @@
 # 👋 Olá, eu sou Christopher Lacerda
 
-### Product Manager | Product Strategy | Product Discovery | Data-Driven Products
+### Product Manager | Product Discovery | Product Strategy | Data-Driven Products
 
-Sou Product Manager com experiência em transformação digital, produtos digitais e gestão de projetos, conectando negócio, tecnologia e dados para construir soluções que geram valor.
+Sou Product Manager com experiência em transformação digital, produtos digitais e gestão de projetos. Atuo conectando negócio, tecnologia e dados para construir soluções que geram valor para empresas e usuários.
 
-Atualmente concentro minha atuação em **Product Management**, **Product Analytics**, **SQL**, **Python** e **Inteligência Artificial aplicada a produtos**.
-
----
-
-## 🚀 Projetos
-
-📊 **Cartão AMAS** → [Case Study](./projects/cartao-amas)
-
-🚀 **Íon Controler** → [Case Study](./projects/ion-controler)
-
-🏥 **Grupo Ápice Saúde** → [Case Study](./projects/apice-saude)
-### 📫 Contato
+Atualmente concentro meus estudos em **Product Analytics**, **SQL**, **Python** e **Inteligência Artificial aplicada a Produtos Digitais**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Projetos em Destaque
 
-**Produto**
+### 📊 Cartão AMAS
+Produto digital voltado para assistência médica, com foco na evolução do portal, aplicativo, jornada do usuário, indicadores e Product Analytics.
+
+🔗 https://github.com/chris-oliver-git/meu-projeto-amas
+
+---
+
+### 🚀 Íon Controler
+Plataforma SaaS para gestão comercial e orçamentação, conduzida desde o Product Discovery até a definição do MVP, roadmap e evolução do produto.
+
+🔗 https://github.com/chris-oliver-git/ion-controler
+
+---
+
+### 📄 Íon Sync Hub
+Sistema para gestão de contratos e automação de processos administrativos, com foco em eficiência operacional e integração de informações.
+
+🔗 https://github.com/chris-oliver-git/ion-sync-hub
+
+---
+
+## 💼 Competências
+
+- Product Management
 - Product Discovery
 - Product Strategy
-- Roadmapping
-- Agile (Scrum/Kanban)
-
-**Dados**
+- Product Analytics
+- Backlog Management
+- Agile (Scrum / Kanban)
 - SQL
 - Python
 - Power BI
-
-**Tecnologia**
-- Git & GitHub
-- APIs REST
-- React
-- Supabase
-
----
-
-## 📚 Atualmente estudando
-
-- Product Analytics
 - Inteligência Artificial Generativa
-- Data Analytics
-- Ciência de Dados
 
 ---
 
+## 📫 Contato
 
 💼 LinkedIn  
-www.linkedin.com/in/christopherlacerda
+https://www.linkedin.com/in/christopherlacerda
 
 📧 christopher-oliveira@outlook.com.br
 
-> *Transformando problemas de negócio em produtos digitais orientados por dados.*
+---
+
+> *Building digital products that connect business, technology and data.*
