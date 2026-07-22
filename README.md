@@ -1,75 +1,58 @@
-# Oi 👋 eu sou o Christopher! #
+# 👋 Olá, eu sou Christopher Lacerda
 
-Olá! Sou Christopher Oliveira, profissional de Tecnologia da Informação com experiência em suporte técnico, gestão de produtos (Product Owner), sucesso do cliente e integrações com APIs. Atuo como gerente de TI, liderando uma equipe com foco em eficiência operacional, melhoria contínua e atendimento ao cliente de alto nível.
+### Product Manager | Product Strategy | Product Discovery | Data-Driven Products
 
-Tenho interesse especial por produtos digitais na área da saúde, com destaque para exibição de resultados de exames médicos, integração com APIs e experiência do usuário em dispositivos móveis.
+Sou Product Manager com experiência em transformação digital, produtos digitais e gestão de projetos, conectando negócio, tecnologia e dados para construir soluções que geram valor.
 
-### 🧠 O que venho estudando ###
+Atualmente concentro minha atuação em **Product Management**, **Product Analytics**, **SQL**, **Python** e **Inteligência Artificial aplicada a produtos**.
 
-* Desenvolvimento Web: HTML, CSS, JavaScript, React
+---
 
-* Integrações com APIs abertas: foco na área da saúde
+## 🚀 Projetos
 
-* Infraestrutura de redes: uso e configuração de pfSense, firewall, bloqueios por DNS 
+📊 **Cartão AMAS** → [Case Study](./projects/cartao-amas)
 
-* DevOps básico: Git, GitHub, automações e versionamento
+🚀 **Íon Controler** → [Case Study](./projects/ion-controler)
 
-* Comunicação e Escrita Profissional: prática constante de clareza e objetividade
+🏥 **Grupo Ápice Saúde** → [Case Study](./projects/apice-saude)
+### 📫 Contato
 
-* Inglês: conversação, gramática e vocabulário com base no método Pimsleur
+---
 
-### 🚀 Interesses profissionais ###
+## 🛠️ Tecnologias & Ferramentas
 
-* Construção de portais web modernos, seguros e acessíveis
+**Produto**
+- Product Discovery
+- Product Strategy
+- Roadmapping
+- Agile (Scrum/Kanban)
 
-* Melhoria da experiência do paciente por meio da tecnologia
+**Dados**
+- SQL
+- Python
+- Power BI
 
-* APIs RESTful e padrões de integração escaláveis
+**Tecnologia**
+- Git & GitHub
+- APIs REST
+- React
+- Supabase
 
-* Gestão de equipes de TI e produtos digitais com foco em entrega de valor
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chris-oliver-git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-oliver-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 📚 Atualmente estudando
+
+- Product Analytics
+- Inteligência Artificial Generativa
+- Data Analytics
+- Ciência de Dados
+
+---
 
 
+💼 LinkedIn  
+www.linkedin.com/in/christopherlacerda
 
+📧 christopher-oliveira@outlook.com.br
 
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://instagram.com/euchristopheer" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
-
-  <a href="https://discord.com/users/981359708122259486" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" /></a>
-
-  <a href="mailto:contato.christopherlacerda@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-</a>
-  <a href="https://www.linkedin.com/in/christopher-lacerda" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/chris-oliver-git/chris-oliver-git/output/snake.svg" alt="Snake animation" />
-
-###
+> *Transformando problemas de negócio em produtos digitais orientados por dados.*
